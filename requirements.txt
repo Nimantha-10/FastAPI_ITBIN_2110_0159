@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 pydantic
-pickle5
+pickle5==0.0.10
 scikit-learn
 numpy
