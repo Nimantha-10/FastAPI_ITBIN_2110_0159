@@ -3,4 +3,4 @@ uvicorn
 pydantic
 scikit-learn
 numpy
-pickle5==0.0.10
+pickle
