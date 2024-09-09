@@ -39,7 +39,7 @@ for the get full idea about this projrct and devolopment read this documentat
 
 ## API Endpoints
 
-#### Input
+#### Example Input
 
 ```{
   "pregnancies": 2,
